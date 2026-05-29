@@ -6,7 +6,7 @@ This project investigates the structural and elastic properties of germanium usi
 
 This project demonstrates a complete computational materials workflow including convergence testing, structural relaxation, equation-of-state calculations, scientific data analysis, and visualization using Python.
 
-===
+---
 
 ## Objectives
 
@@ -17,7 +17,7 @@ This project demonstrates a complete computational materials workflow including 
 - Determine the equilibrium volume and bulk modulus.
 - Compare computational results with literature values.
 
-===
+---
 
 ## Software and Tools
 
@@ -30,7 +30,7 @@ This project demonstrates a complete computational materials workflow including 
 - Linux
 - Slurm Workload Manager
 
-===
+---
 
 ## Computational Workflow
 
@@ -69,7 +69,7 @@ The fitted curve was used to determine:
 
 Python scripts were used to generate publication-style figures and analyze the fitted results.
 
-===
+---
 
 ## Repository Structure
 
@@ -103,9 +103,9 @@ bulk-modulus-ge-dft/
 │    └── convergence_energy_tolerance.py
 │
 └── report/
-      └── Ge_BulkMod_Report.pdf
+     └── Ge_BulkMod_Report.pdf
 
-===
+---
 
 ## Key Results
 
@@ -115,7 +115,7 @@ bulk-modulus-ge-dft/
 | Bulk Modulus       |     59 GPa |
 | Equilibrium Energy | -427.31 Ry |
 
-===
+---
 
 ## Figure
 
@@ -125,7 +125,7 @@ The figure below shows the calculated DFT energy-volume data and the fitted equa
 
 ![Energy vs. Volume] (figures/energy_vs_volume.png)
 
-===
+---
 
 ## Skills Demonstrated
 
@@ -140,13 +140,13 @@ The figure below shows the calculated DFT energy-volume data and the fitted equa
 - Linux and HPC Workflows
 - Slurm Job Scheduling
 
-===
+---
 
 ## Computational Environment
 
 Calculations are performed on a Linux-based high-performance computing cluster using the Slurm workload manager.
 
-===
+---
 
 ## Future Work
 
@@ -157,7 +157,7 @@ Potential extensions include:
 - Automated parsing of Quantum ESPRESSO outputs
 - Additional validation against experimental and computational literature values
 
-===
+---
 
 ## References
 
