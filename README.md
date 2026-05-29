@@ -106,6 +106,7 @@ bulk-modulus-ge-dft/
 └── report/
      └── Ge_BulkMod_Report.pdf
 ```
+
 ---
 
 ## Key Results
