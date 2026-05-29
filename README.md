@@ -124,7 +124,7 @@ bulk-modulus-ge-dft/
 
 The figure below shows the calculated DFT energy-volume data and the fitted equation-of-state curve used to determine the equilibrium volume and bulk modulus.
 
-![Energy vs. Volume] (figures/energy_vs_volume.png)
+![Energy vs Volume](figures/energy_vs_volume.png)
 
 ---
 
