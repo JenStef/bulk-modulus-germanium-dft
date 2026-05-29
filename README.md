@@ -73,7 +73,7 @@ Python scripts were used to generate publication-style figures and analyze the f
 
 ## Repository Structure
 
-```text
+```
 bulk-modulus-ge-dft/
 ├── README.md
 ├── .gitignore
@@ -105,7 +105,7 @@ bulk-modulus-ge-dft/
 │
 └── report/
      └── Ge_BulkMod_Report.pdf
-```text
+```
 ---
 
 ## Key Results
